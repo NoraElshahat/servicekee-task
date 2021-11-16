@@ -1,0 +1,26 @@
+{
+  "name": "servicekee-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoraElshahat/servicekee-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoraElshahat/servicekee-task/issues"
+  },
+  "homepage": "https://github.com/NoraElshahat/servicekee-task#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.15"
+  }
+}
